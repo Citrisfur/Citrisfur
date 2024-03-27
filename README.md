@@ -1,1 +1,1 @@
-- Hi, I’m Nathan (@Citrisfur). You can contact me at nathanscoy@gmail.com. I mostly work on repl.it and port projects over to GitHub when needed, so it might seem bare here. Thanks for visiting my profile!
+- Hi, I’m Nathan (@Citrisfur). Previously I used repl.it for all of my projects but now I'm actively using GitHub after becoming familiar with it in a professional development setting. Available for contact at nathanscoy@gmail.com for whatever you need.
